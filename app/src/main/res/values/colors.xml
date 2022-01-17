@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FFBB86FC</color>
+    <color name="purple_700">#FFBB86FC</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="teal_200">#FFBB86FC</color>
+    <color name="teal_700">#FFBB86FC</color>
+    <color name="black">#FF0E0E0E</color>
+    <color name="colorPrimary">#FFA938</color>
+    <color name="colorPrimaryDark">#FFA938</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="textColor">#844046</color>
+    <color name="backgroundColor">#FEF1E0</color>
+    <color name="ageTextBackgroundColor">#C846DCE0</color>
+    <color name="ageTextColor">#C4BBBB</color>
+    <color name="selectDateBackground">#FFC4BBBB</color>
+    <color name="greyColor">#B7B7B7</color>
+</resources>
